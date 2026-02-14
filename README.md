@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+<h1 align="center">Hi 👋, I'm Mayank</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue" alt="profile views"/>
+</p>
 <!--
 **mayankrana2000/mayankrana2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
