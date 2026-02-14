@@ -8,7 +8,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayankrana2000&show_icons=true&theme=radical)
 
-<centre>![Streak Stats](https://streak-stats.demolab.com/?user=mayankrana2000)</centre>
+<center>![Streak Stats](https://streak-stats.demolab.com/?user=mayankrana2000)</center>
 
 **mayankrana2000/mayankrana2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
