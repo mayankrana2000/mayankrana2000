@@ -1,6 +1,6 @@
 
 
-- <h1 align="center">Hi 👋, I'm Mayank Rana</h1>
+<h1 align="center">Hi 👋, I'm Mayank Rana</h1>
 <h3 align="center">Full Stack Developer | MERN Stack | BTech Student</h3>
 
 <p align="center">
