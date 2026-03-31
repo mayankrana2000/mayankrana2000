@@ -79,11 +79,11 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="blank">
+<a href="https://www.linkedin.com/in/mayank-rana2003" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" />
 </a>
 
-<a href="mailto:YOUR-EMAIL">
+<a href="mailto:mayank20092003@gmail.com">
 <img align="center" src="https://skillicons.dev/icons?i=gmail" height="30" />
 </a>
 </p>
