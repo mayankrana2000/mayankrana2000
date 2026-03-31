@@ -83,7 +83,7 @@
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" />
 </a>
 
-<a href="mailto:mayank20092003@gmail.com">
+<a href="mayank20092003@gmail.com">
 <img align="center" src="https://skillicons.dev/icons?i=gmail" height="30" />
 </a>
 </p>
